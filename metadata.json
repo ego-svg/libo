@@ -1,0 +1,6 @@
+{
+  "name": "Intelligence Designed To Evolve",
+  "description": "Build applications that reason, adapt and collaborate using a modular AI platform designed for production.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
